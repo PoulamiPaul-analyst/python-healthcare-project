@@ -8,11 +8,11 @@ A complete data analysis project on the distribution of HIV therapy centres acro
 - Group states with similar infrastructure using clustering
 ## Tech Stack
 
--Tools used
--Python
--Pandas, NumPy
--Matplotlib, Seaborn
--Scikit-learn
+- Tools used
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
 
 
 ## Analysis Highlights
