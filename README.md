@@ -25,13 +25,8 @@ A complete data analysis project on the distribution of HIV therapy centres acro
 
 
 ## 📁 Folder Structure
-python-healthcare-project/
-├── hiv_therapy.csv # Raw dataset (2023)
-├── hiv_therapy_analysis.ipynb # Main analysis notebook
-├── README.md # Project documentation
-└── requirements.txt # (Optional) Python dependencies
+<img width="389" height="104" alt="image" src="https://github.com/user-attachments/assets/e8634e2c-3632-4de4-8e03-e581700bf6b1" />
 
----
 
 ## Running the Project
 
