@@ -6,9 +6,8 @@ A complete data analysis project on the distribution of HIV therapy centres acro
 - Visualize centre types and distribution
 - Identify hidden patterns using PCA
 - Group states with similar infrastructure using clustering
-## Tech Stack
+## Tools used
 
-- Tools used
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
